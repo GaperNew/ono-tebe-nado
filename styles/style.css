@@ -173,7 +173,7 @@ address {
 }
 
 .card-link {
-    display: block;
+  display: block;
 }
 
 .card {
@@ -181,7 +181,6 @@ address {
   width: 334px;
   background-color: rgb(85, 177, 177);
 }
-
 
 .card_header {
   align-self: flex-start;
@@ -314,59 +313,56 @@ address {
 }
 
 .about__text_special_shift {
-    letter-spacing: 0.0039em;
+  letter-spacing: 0.0039em;
 }
 
-
 footer {
-    display: grid;
-    margin-top: 184px;
-    margin-left: 50px;
-    margin-right: 50px;
-    width: 1000px;
-    grid-template-columns: 1fr 1fr 1fr;
-    font-size: 18px;
+  display: grid;
+  margin-top: 184px;
+  margin-left: 50px;
+  margin-right: 50px;
+  width: 1000px;
+  grid-template-columns: 1fr 1fr 1fr;
+  font-size: 18px;
 }
 
 .footer__menu {
-    margin-top: 5px;
-
+  margin-top: 5px;
 }
 
 .footer__menu-list {
-    list-style: none;
-    text-align: center;
+  list-style: none;
+  text-align: center;
 }
 
 .footer__menu-list-item {
-    font-size: 18px; 
-    color: #000;
+  font-size: 18px;
+  color: #000;
 }
 
 .footer__menu-link {
-    text-decoration: underline;
+  text-decoration: underline;
 }
 
 .footer__menu-link-active {
-    text-decoration: none;
-    
+  text-decoration: none;
 }
 
 .footer__social-list-item {
-    margin-top: 3px;
-    display: flex;
-    flex-direction: row;
-    list-style: none;
-    gap: 48px;
-    justify-content: end;
+  margin-top: 3px;
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  gap: 48px;
+  justify-content: end;
 }
 
 .footer__social-link {
-    height: 48px;
-    width: 48px;
+  height: 48px;
+  width: 48px;
 }
 
 .footer__social-icon {
-    height: 48px;
-    width: 48px;
+  height: 48px;
+  width: 48px;
 }
