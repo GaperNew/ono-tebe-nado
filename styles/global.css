@@ -32,3 +32,8 @@ a {
 img {
   width: 100%;
 }
+
+address {
+  margin: 0;
+  box-sizing: border-box;
+}
